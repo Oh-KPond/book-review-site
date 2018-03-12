@@ -1,3 +1,6 @@
+.books ul {
+  width: 75%;
+}
 .books ul li {
   display: inline;
   margin: 10px;
