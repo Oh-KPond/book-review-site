@@ -1,0 +1,17 @@
+.info {
+  text-align: center;
+}
+.info div img {
+  text-align: center;
+  width: 200px;
+}
+.info p {
+  padding: 30px;
+  vertical-align: top;
+  width: 400px;
+  margin: auto;
+}
+.form {
+  display: inline-block;
+  padding-bottom: 25px;
+}
