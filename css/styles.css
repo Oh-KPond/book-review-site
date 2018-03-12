@@ -1,15 +1,22 @@
 body{
   font-family: Sans;
   padding: 0px 15px;
+  background-color: #fef2f7;
 }
+
+p { line-height: normal; }
 
 header {
   background-color: #e0115f;
+  border: 5px solid #970b40;
+  border-radius: 20px;
 }
 
 footer {
   background-color: #e0115f;
   padding-left: 10px;
+  border: 5px solid #970b40;
+  border-radius: 20px;
 }
 
 h1 {

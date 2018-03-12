@@ -1,0 +1,45 @@
+.book-img {
+  display: inline-block;
+}
+
+.book-info {
+  display: inline-block;
+}
+
+.book-info a {
+  color: #600729;
+}
+
+.book-info label {
+  font-weight: bold;
+}
+
+.description h3 {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.reviews {
+  padding: 20px 0px;
+}
+
+.reviews h2 {
+  font-size: 1.5em;
+  padding-bottom: 15px;
+}
+
+.reviews h3 {
+  font-size: 1.4em;
+  padding-bottom: 10px;
+}
+
+.review p {
+  padding-bottom: 15px;
+}
+
+.review p.reviewer {
+  font-weight: bold;
+  padding-bottom: 0px;
+}
