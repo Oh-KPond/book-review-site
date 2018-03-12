@@ -1,0 +1,7 @@
+.books ul li {
+  display: inline;
+  margin: 10px;
+}
+.books ul li img {
+  padding-bottom: 50px;
+}
